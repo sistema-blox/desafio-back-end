@@ -1,5 +1,9 @@
 ![Blox](logo_blox.png)
 
+# Sobre a Empresa
+
+Blox é uma EdTech que propõe uma abordagem radicalmente nova no ensino superior. Acreditamos que cada aluno é único e que portanto, sua trilha formativa também deveria ser única, personalizada às suas necessidades. Desenvolvemos todas as ferramentas e processos necessários para apoiar as universidades na verdadeira transformação da educação.
+
 # Sobre o teste
 
 Este teste é apresentado às pessoas que estão se candidatando às vagas de desenvolvimento para avaliar os quesitos técnicos. 
