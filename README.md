@@ -18,7 +18,7 @@ O código deve ser escrito utilizando a linguagem Ruby + framework Rails.
 Seu objetivo é criar um web app simples no qual os usuários podem reservar salas de reunião.
 
 
-### Pré-requisitos: 
+### Requisitos: 
 
 - Deve ser possível criar, listar e excluir salas;
 - Os horários disponíveis para reserva devem estar dentro do horário comercial (8:00 as 18:00);
@@ -35,11 +35,6 @@ Seu objetivo é criar um web app simples no qual os usuários podem reservar sal
  - Criar uma documentação de como rodar sua aplicação;
  - Criar uma breve descrição da solução utilizada;
 
-
-### Plus:
-
- - A página ser responsiva;
- - Utilizar React + Redux
 
 ### Entrega do desafio:
 
