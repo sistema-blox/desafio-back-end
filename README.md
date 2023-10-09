@@ -23,7 +23,7 @@ Seu objetivo é criar um web app simples no qual os usuários podem reservar sal
 - Deve ser possível criar, listar e excluir salas;
 - Os horários disponíveis para reserva devem estar dentro do horário comercial (8:00 as 18:00);
 - O usuário não conseguirá reservar a sala se a mesma já estiver alocada à outro usuário;
-- Criação de Controllers para o back-end da aplicação criada via API Rest. (ou, alternativamente, o candidato poderá realizar o "Requisito Opcional" descrito abaixo)
+- Criação de Controllers para expôr o back-end da aplicação via API Rest. (Ou, alternativamente, o candidato poderá realizar o "Requisito Opcional" descrito abaixo e ignorar este requisito)
 
 ### Requisito Opcional:
 Este requisito não é obrigatório e deverá ser feito apenas caso o candidato deseje demonstrar proeificiência em desenvolvimento full-stack Ruby on Rails.
