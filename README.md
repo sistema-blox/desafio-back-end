@@ -18,11 +18,17 @@ O código deve ser escrito utilizando a linguagem Ruby + framework Rails.
 Seu objetivo é criar um web app simples no qual os usuários podem reservar salas de reunião.
 
 
-### Requisitos: 
+### Requisitos obrigatórios: 
 
 - Deve ser possível criar, listar e excluir salas;
 - Os horários disponíveis para reserva devem estar dentro do horário comercial (8:00 as 18:00);
 - O usuário não conseguirá reservar a sala se a mesma já estiver alocada à outro usuário;
+- Criação de Controllers para o back-end da aplicação criada via API Rest. (ou, alternativamente, o candidato poderá realizar o "Requisito Opcional" descrito abaixo)
+
+### Requisito Opcional:
+Este requisito não é obrigatório e deverá ser feito apenas caso o candidato deseje demonstrar proeificiência em desenvolvimento full-stack Ruby on Rails.
+Não é necessário desevolver este requisito e o desenvolvimento de API Rest descrito acima. Apena um deles é suficiente. 
+
 - Criação de uma tela de agenda onde usuários poderão visualizar / reservar todos os horários disponíveis;
 ![Sugestão de tela](agenda.png)
 
